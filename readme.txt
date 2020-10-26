@@ -9,4 +9,5 @@
 **  own file to read from by entering -1 as your selection and entering the file name when
 **  prompted.  The result from each test will be printed to a file Solutions_'testNum'_'type'.txt
 **
+**  See prog2.pdf for project specifications
 */
